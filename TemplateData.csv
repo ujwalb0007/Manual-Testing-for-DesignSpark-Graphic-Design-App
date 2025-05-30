@@ -1,0 +1,4 @@
+TemplateID,Type,Text,FontSize,Status
+TEMP_001,Poster,Welcome Event,24,Valid
+TEMP_002,Banner,Special Offer,0,Invalid
+TEMP_003,Flyer,Sale Now,18,Valid

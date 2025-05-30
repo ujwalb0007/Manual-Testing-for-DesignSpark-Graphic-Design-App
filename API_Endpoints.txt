@@ -1,0 +1,16 @@
+DesignSpark API Endpoints for Testing
+
+1. Template Editing
+   - Endpoint: POST /api/template/edit
+   - Sample Request: {"user": "designer1", "template_id": "TEMP_001", "text": "Welcome Event", "font_size": 24}
+   - Expected Response: {"status": "updated", "template_id": "TEMP_001"}
+
+2. Image Upload
+   - Endpoint: POST /api/image/upload
+   - Sample Request: {"user": "designer1", "file_name": "sample.jpg", "size_mb": 2}
+   - Expected Response: {"status": "uploaded", "image_id": "IMG_001"}
+
+3. Collaboration Session
+   - Endpoint: POST /api/collaboration/start
+   - Sample Request: {"user1": "designer1", "user2": "collaborator1", "template_id": "TEMP_001"}
+   - Expected Response: {"status": "active", "session_id": "COL_001"}

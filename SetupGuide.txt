@@ -1,0 +1,20 @@
+DesignSpark Manual Testing Setup Guide
+
+1. Environment Setup:
+   - App: DesignSpark (use demo graphic design app like canva.com/sandbox or local emulator).
+   - Tools: Chrome browser, Postman for API testing.
+   - Prerequisites: Stable internet, emulator (e.g., Android Studio), Postman installed.
+
+2. Test Environment:
+   - URL: https://sandbox.canva.com (or local emulator).
+   - Browser: Chrome v120+, Firefox v115+.
+   - Device: Desktop or mobile browser (for responsiveness tests).
+
+3. Configuration:
+   - Ensure data privacy compliance (e.g., GDPR for user data).
+   - Set up API keys in Postman for endpoints in API_Endpoints.txt.
+   - Use TestData/ for input data.
+
+4. Execution:
+   - Open TestCases_DesignSpark.xlsx and follow test steps.
+   - Log results in DefectLog.xlsx and save screenshots in Screenshots/.

@@ -1,0 +1,16 @@
+[
+  {
+    "ImageID": "IMG_001",
+    "User": "designer1",
+    "FileName": "sample.jpg",
+    "SizeMB": 2,
+    "Status": "Valid"
+  },
+  {
+    "ImageID": "IMG_002",
+    "User": "designer2",
+    "FileName": "large.jpg",
+    "SizeMB": 15,
+    "Status": "Invalid"
+  }
+]

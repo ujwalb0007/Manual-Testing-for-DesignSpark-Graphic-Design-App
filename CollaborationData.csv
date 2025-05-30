@@ -1,0 +1,3 @@
+SessionID,User1,User2,TemplateID,Status
+COL_001,designer1,collaborator1,TEMP_001,Active
+COL_002,designer2,collaborator1,TEMP_002,Conflict

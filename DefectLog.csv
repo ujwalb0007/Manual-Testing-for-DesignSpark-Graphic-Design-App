@@ -1,0 +1,3 @@
+BugID,Description,Severity,Status
+BUG_001,Image upload allows files over 10MB,High,Open
+BUG_002,Collaboration changes not synced in real-time,Medium,Open
